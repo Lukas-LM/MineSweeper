@@ -13,6 +13,13 @@ Console-based python game with revealing surrounding empty fields function
 Enter row and column to reveal a field. You are losing
 if you hits a bomb. Empty fields revealing automatically nearby fields
 
+## Screenshots & GIFs
+
+![losing message](BOOM.gif)
+![invalid input](invalid.gif)
+![revealing mechanism](reveal.gif)
+![win message](win.png)
+
 ## Start
 
 The game can directly start in the console
