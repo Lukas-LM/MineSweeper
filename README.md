@@ -16,7 +16,7 @@ if you hits a bomb. Empty fields revealing automatically nearby fields
 ## Screenshots & GIFs
 
 ![losing message](BOOM.gif)
-![invalid input](invalid.gif)
+![invalid input](invalid.png)
 ![revealing mechanism](reveal.gif)
 ![win message](win.png)
 
