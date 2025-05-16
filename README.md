@@ -11,7 +11,7 @@ Console-based python game with revealing surrounding empty fields function
 ## Gamerules
 
 Enter row and column to reveal a field. You are losing
-if you hits a bomb. Empty fields revealing automatically nearby fields
+if you hit a bomb. Empty fields revealing automatically nearby fields
 
 ## Screenshots & GIFs
 
